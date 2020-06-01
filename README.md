@@ -1,4 +1,4 @@
-## 修改RuoYi功能
+## 感谢Ruoyi以及Ruoyi-Plus
 
 * ORM框架 使用 Mybatis-Plus 简化CRUD
 * Bean简化 使用 Lombok 简化 get set toString 等等
